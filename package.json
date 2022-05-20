@@ -1,8 +1,8 @@
 {
-  "name": "vitesse-webext",
-  "displayName": "Vitesse WebExt",
+  "name": "cyberlearn-command-palette",
+  "displayName": "CyberLearn Command Palette",
   "version": "0.0.1",
-  "description": "[description]",
+  "description": "Add a command palette to CyberLearn to switch between different courses",
   "private": true,
   "scripts": {
     "dev": "npm run clear && cross-env NODE_ENV=development run-p dev:*",
